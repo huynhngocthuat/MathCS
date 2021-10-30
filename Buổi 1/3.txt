@@ -1,0 +1,3 @@
+Số nguyên tố có 10 ước:
+1. a^4 * b ^1 với a,b là các số nguyên tố ngẫu nhiên khác nhau
+2. chọn a = 2, b = 3 ta được số 48 là nhỏ nhất 
